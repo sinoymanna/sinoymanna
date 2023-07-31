@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Sinoy
 - 👀 I’m interested in Machine Learning 
-- 🌱 I’m currently learning Python 
-- 💞️ I’m looking to collaborate on various python projects once i get better grip on the topic.
+- 🌱 I’m currently learning Deep Learning
+- 💞️ I’m looking to collaborate on various projects once i get better grip on the topic.
 
 <!---
 sinoymanna/sinoymanna is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
