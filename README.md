@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sinoy
-- 👀 I’m interested in Machine Learning 
+- 👀 I’m interested in NLP
 - 🌱 I’m currently learning Deep Learning
 - 💞️ I’m looking to collaborate on various projects once i get better grip on the topic.
 
