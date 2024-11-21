@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sinoy
-- 👀 I’m interested in NLP
-- 🌱 I’m currently learning Deep Learning
+- 👀 I’m interested in DL and NLP 
+- 🌱 I’m currently learning RAG and working with LLMs
 - 💞️ I’m looking to collaborate on various opensource projects once I get better grip on the topic.
 
 <!---
